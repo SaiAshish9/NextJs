@@ -6,7 +6,7 @@ const Post= ({router})=>(
 
     <Layout title={router.query.title} >
 
-<p>
+<p style={{width:'80vw'}}>
 Lorem ipsum dolor sit amet, consectetur adip
 </p>
 
